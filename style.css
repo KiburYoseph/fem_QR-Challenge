@@ -1,0 +1,13 @@
+body {
+    background-color: antiquewhite;
+}
+.main {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.text {
+    
+}
